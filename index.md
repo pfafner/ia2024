@@ -18,7 +18,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 ### Horario
 <div id='id-horario'/>
 
-* Lunes 17:20 a 19:45 horas. Viernes, de 17:20 a 19:00 horas.
+* Lunes, de 17:20 a 19:45 horas. Viernes, de 17:20 a 19:00 horas.
 
 ### Office Hours
 <div id='id-office'/>
