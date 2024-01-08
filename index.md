@@ -31,7 +31,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
   **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-  01       | 08.01.2024   |      | 
+  01       | 12.01.2024   | Inicio del curso.     | 
 
 
 # Proyecto de Curso
