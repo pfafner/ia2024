@@ -27,7 +27,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
   **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2024   | Inicio del curso. Historia de la IA. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
+  01       | 12.01.2024   | Inicio del curso. Historia de la IA. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/Wordcloud.png){:target="_blank"}
   02       | 15.01.2024   | Agentes inteligentes. Entornos y clasificación. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
 
 
