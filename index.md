@@ -25,10 +25,12 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
-  -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-  01       | 12.01.2024   | Inicio del curso. Historia de la IA. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/Wordcloud.png){:target="_blank"}
-  02       | 15.01.2024   | Agentes inteligentes. Entornos y clasificación. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Ejercicio PEAS](otros/Ejercicio_PEAS.pdf){:target="_blank"} <br/> [Ejercicio Clasificación](otros/Ejercicio_Clasificación.pdf){:target="_blank"} 
+**No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
+-------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
+01       | 12.01.2024   | Inicio del curso. Historia de la IA. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Wordcloud](otros/Wordcloud.png){:target="_blank"}
+02       | 15.01.2024   | Agentes inteligentes. Entornos y clasificación. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Ejercicio PEAS](otros/Ejercicio_PEAS.pdf){:target="_blank"} <br/> [Ejercicio Clasificación](otros/Ejercicio_Clasificación.pdf){:target="_blank"} 
+03       | 19.01.2024   | Tipos de Agentes. Representación de problemas.  | 
+04       |   |   | 
 
 
 # Proyecto de Curso
