@@ -31,6 +31,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 02       | 15.01.2024   | Agentes inteligentes. Entornos y clasificación. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Ejercicio PEAS](otros/Ejercicio_PEAS.pdf){:target="_blank"} <br/> [Ejercicio Clasificación](otros/Ejercicio_Ambientes.pdf){:target="_blank"} 
 03       | 19.01.2024   | Tipos de Agentes. Representación de problemas. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
 04       | 22.01.2024   | Espacios de Estados. Problemas de Búsqueda: DFS y BFS. [Aula 05a](aulas/Aula05a.pdf){:target="_blank"}  [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | 
+05       | 26.01.2024   | Búsqueda sensible al costo. Comparación entre DFS, BFS y Dijkstra. [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 
 
 # Proyecto de Curso
