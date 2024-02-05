@@ -41,7 +41,7 @@ L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <
 
 A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad de Berkeley.
 
-# Proyecto 1
+## Proyecto 1
 <div id='id-proj1'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
