@@ -39,7 +39,15 @@ L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <
 # Proyecto de Curso
 <div id='id-proj'/>
 
-A lo largo del curso de desarrollarán varios proyectos, los cuales se indicarán más adelante.
+A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad de Berkeley.
+
+# Proyecto 1
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 04.02.2024   | Proyecto 1 - *Búsqueda*.                      | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
+ 2       | 04.03.2024   | Entrega del proyecto.                         | 
 
   
 # Referencias
