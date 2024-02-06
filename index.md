@@ -34,6 +34,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 05       | 26.01.2024   | Búsqueda sensible al costo. Comparación entre DFS, BFS y Dijkstra. [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 06       | 29.01.2024   | Búsqueda Informada: *Greedy Search*, A* y *Weighted* A*. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
 L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: Lunes 05 de febrero.**
+07       | 05.02.2024   | Búsqueda con Restricciones: *Backtracking*, *Filtering*. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
 
 
 # Proyecto de Curso
