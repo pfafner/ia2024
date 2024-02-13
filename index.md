@@ -36,7 +36,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Entrega: Lunes 05 de febrero.**
 07       | 05.02.2024   | Búsqueda con Restricciones: *Backtracking*, *Filtering*. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
 08       | 09.02.2024   | Búsqueda y Optimización. Heurísticas. Soluciones sub-óptimas. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
-09       | 12.02.2024   | Algoritmos Genéticos. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
+09       | 12.02.2024   | Algoritmos Genéticos. Selección. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
+10       | 16.02.2024   | Operadores de cruce. Operadores de mutación. |  
 
 
 # Proyecto de Curso
