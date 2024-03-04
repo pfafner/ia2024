@@ -56,7 +56,22 @@ A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad
  1       | 04.02.2024   | Proyecto 1 - *Búsqueda*.                      | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
  2       | 04.03.2024   | Entrega del proyecto.                         | 
 
-  
+
+## Horarios Proyecto 1 - 04.03.2024
+<div id='id-proj1'/>
+
+  **Hora**     | **Grupo**    
+  ------------ | ------------  
+  5:20 - 5:35  | Grupo 8
+  5:35 - 5:50  | Grupo 6
+  5:50 - 6:05  | Grupo 5
+  6:05 - 6:20  | Grupo 7
+  Hora:  6:20  | Grupo 4
+  Hora:  6:35  | Grupo 1
+  Hora:  6:50  | Grupo 9
+  Hora:  7:05  | Grupo 2
+  Hora:  7:20  | Grupo 3
+  Hora:  7:35  | Grupo 10
 # Referencias
 <div id='id-ref'/>
 
