@@ -66,12 +66,14 @@ A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad
   5:35 - 5:50  | Grupo 6
   5:50 - 6:05  | Grupo 5
   6:05 - 6:20  | Grupo 7
-  Hora:  6:20  | Grupo 4
-  Hora:  6:35  | Grupo 1
-  Hora:  6:50  | Grupo 9
-  Hora:  7:05  | Grupo 2
-  Hora:  7:20  | Grupo 3
-  Hora:  7:35  | Grupo 10
+  6:20 - 6:35  | Grupo 4
+  6:35 - 6:50  | Grupo 1
+  6:50 - 7:05  | Grupo 9
+  7:05 - 7:20  | Grupo 2
+  7:20 - 7:35  | Grupo 3
+  7:35 - 7:50  | Grupo 10 
+
+  
 # Referencias
 <div id='id-ref'/>
 
