@@ -43,6 +43,7 @@ L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <
 13       | 26.02.2024   | Enfriamiento Simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
 14       | 01.03.2024   | 0ptimización continua.     | 
 15       | 04.03.2024   | Revisión del primer proyecto.  | 
+16       | 08.03.2024   | Descenso Gradiente.       | 
 
 
 # Proyecto de Curso
