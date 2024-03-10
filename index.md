@@ -40,7 +40,9 @@ L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <
 10       | 16.02.2024   | Operadores de cruce. Operadores de mutación. |  
 11       | 19.02.2024   | Ejemplos de implementación de GAs. <br/> |  
 12       | 23.02.2024   | Búsqueda Local: *Hill-Climbing*, Búsqueda tabú, *Beam Search*. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
-13       | 26.02.2024   | Enfriamiento Simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | 
+13       | 26.02.2024   | Enfriamiento Simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
+14       | 01.03.2024   | 0ptimización continua.     | 
+
 
 
 # Proyecto de Curso
