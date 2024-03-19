@@ -63,8 +63,8 @@ A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad
  3       | 11.03.2024   | Entrega del informe y código.                 | 
 
 
-## Proyecto 1
-<div id='id-proj1'/>
+## Proyecto 2
+<div id='id-proj2'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
