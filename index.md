@@ -68,7 +68,7 @@ A lo largo del curso desarrollaremos los proyectos de Pac-Man, de la universidad
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 18.03.2024   | Proyecto 1 - *Búsqueda Adversaria*.           | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
+ 1       | 18.03.2024   | Proyecto 2 - *Búsqueda Adversaria*.           | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
  2       | 22.04.2024   | Presentación del proyecto.                    | 
  3       | 26.04.2024   | Entrega del informe y código.                 | 
 
