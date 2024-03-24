@@ -45,7 +45,7 @@ L1       | 29.01.2024   | Lab 1  |  [Lab 01](labs/lab01.pdf){:target="_blank"} <
 15       | 04.03.2024   | Revisión del primer proyecto.  | 
 16       | 08.03.2024   | Descenso Gradiente.       | 
 17       | 15.03.2024   | Búsqueda Adversaria. Estrategia Minimax. | 
-18       | 18.03.2024   | Búsqueda Adversaria II. $\alpha$-$\beta$ Pruning. Expectimax y Expectiminimax. | 
+18       | 18.03.2024   | Búsqueda Adversaria II. Alpha-Beta Pruning. Expectimax y Expectiminimax. | 
 
 
 # Proyecto de Curso
